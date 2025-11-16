@@ -1,0 +1,15 @@
+# Ignorar Ambiente Virtual Python
+.venv/
+
+# Ignora o .env
+.env
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora Poetry Lock File
+poetry.lock
+
