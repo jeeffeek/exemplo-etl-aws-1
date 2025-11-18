@@ -54,6 +54,6 @@ exemplo-aws-1/
 │       └── movies_and_tv_shows.csv
 ├── output/
 │   └── movies_and_tv_shows.parquet
-├── .env (exemplo)
+├── .env
 └── README.md
 ```
